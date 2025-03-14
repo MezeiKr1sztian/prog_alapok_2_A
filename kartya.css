@@ -12,3 +12,29 @@ h1
     font-size: 100px!important;
     text-align: center;
 }
+
+.fk {
+    font-weight: bold;
+}
+
+.piros {
+    color: red;
+}
+
+.fekete {
+    color: black;
+}
+
+.zold {
+    color: green;
+}
+
+.kek {
+    color: blue;
+}
+
+.alakzat {
+    text-align: center;
+    margin: 0;
+    size: 6em;
+}
