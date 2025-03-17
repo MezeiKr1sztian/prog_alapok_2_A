@@ -36,12 +36,18 @@ h1
 .alakzat {
     text-align: center;
     margin: 0;
-    font-size: 6rem;
+    font-size: 6em;
 }
 
 .kepalairas {
-    text-align: justify center;
-    height: 12px;
-    border: solid 1px black;
+    font-style: italic;
+    text-align: center;
+    /* height: 12px; */
+    border: 1px solid black;
     border-radius: 6px;
+}
+
+li {
+    line-height: 3.5em;
+    list-style-image: url('joker-felsorolas.png');
 }
